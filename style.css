@@ -38,7 +38,7 @@ body {
     margin: 0;
     top: 4px;
     left: 12px;
-    padding: 10px 12px 10px 12px;
+    padding: 18px 12px 10px 12px;
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -51,7 +51,7 @@ body {
     width: 40px;
     height: 40px; 
     top: 4px; 
-    left: 385px; 
+    left: 375px; 
     padding: 8px 0px 0px 0px;
     border-radius: 8px 0px 0px 0px;
     background: none; 
@@ -60,9 +60,9 @@ body {
     font-size: 28px; 
     cursor: pointer; 
     display: inline-block; 
-    margin: 0; 
-    position: absolute; 
-    margin-left: 480px;
+    margin-left: 200px;
+    margin-bottom: 0;
+ 
 }
 .main-body {
     width: 375px;
